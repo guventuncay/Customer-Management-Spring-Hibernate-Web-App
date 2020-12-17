@@ -7,5 +7,8 @@ Spring version: 5.2.9
 Hibernate version: 5.4.25
 Mysql version: 8.0
 
+# AOP Update
+Added Spring AOP support
+
 References:
 - Chad Darby, Spring & Hibernate for Beginners, https://www.udemy.com/spring-hibernate-tutorial/
